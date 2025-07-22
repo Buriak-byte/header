@@ -1,0 +1,22 @@
+.team-mega-ul {
+  display: flex;
+  justify-content: center;
+}
+.team-ul-name {
+  text-align: center;
+  margin-top: 25px;
+}
+.team {
+  margin-top: 25px;
+}
+.team-ul-svgs:first-child {
+  margin-left: 45px;
+}
+.team-ul-svgs:not(:first-child) {
+  margin-left: 40px;
+}
+.team-ul-svgs {
+  margin-top: 25px;
+  display: flex;
+  //   justify-content: center;
+}
